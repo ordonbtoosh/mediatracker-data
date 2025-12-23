@@ -7,7 +7,7 @@
   "genre": "Thriller, Drama, Horror",
   "description": "A disturbed young woman must confront her worst fears when she finds herself trapped alone in a New York City loft during the 2003 blackout.",
   "myRank": 0,
-  "posterPath": "https://raw.githubusercontent.com/ordonbtoosh/mediatracker-images-1/main/1766511937655_poster.webp",
+  "posterPath": "assets/img/1766511937655_poster.webp",
   "bannerPath": "",
   "posterImageRepo": "mediatracker-images-1",
   "bannerImageRepo": null,
@@ -21,9 +21,9 @@
   "studio": "",
   "developer": "",
   "directorCreator": "Nick Basile",
-  "runtime": "93",
+  "runtime": "",
   "episodes": "",
   "episodeRuntime": "",
   "timeToBeat": "",
-  "source": "tmdb"
+  "source": ""
 }
