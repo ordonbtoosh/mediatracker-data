@@ -13,7 +13,7 @@
   "omdbApiKey": null,
   "spotifyClientId": null,
   "spotifyClientSecret": null,
-  "youtubeApiKey": null,
+  "youtubeApiKey": "AIzaSyBA9Se7VUg_wEEKJQgGRu5fPz_9yYn_NLw",
   "bioMaxChars": 0,
   "tabBackgrounds": {}
 }
