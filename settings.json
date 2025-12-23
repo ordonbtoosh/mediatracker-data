@@ -1,10 +1,10 @@
 {
-  "themeBackgroundColor": "#e3e3e3",
-  "themeHoverColor": "#676565",
+  "themeBackgroundColor": "#1c1c1c",
+  "themeHoverColor": "#514a73",
   "themeTitleColor": "#ffffff",
   "themeTextColor": "#cccccc",
   "themeFontFamily": "'Momo Trust Sans', sans-serif",
-  "themeDropdownColor": "#ff0000",
+  "themeDropdownColor": "#383838",
   "tmdbApiKey": null,
   "malApiKey": null,
   "steamApiKey": null,
