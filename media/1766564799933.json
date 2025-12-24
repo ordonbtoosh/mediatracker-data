@@ -8,9 +8,9 @@
   "description": "Keller Dover is facing every parent’s worst nightmare. His six-year-old daughter, Anna, is missing, together with her young friend, Joy, and as minutes turn to hours, panic sets in. The only lead is a dilapidated RV that had earlier been parked on their street.",
   "myRank": 0,
   "posterPath": "https://raw.githubusercontent.com/ordonbtoosh/mediatracker-images-1/main/1766564799933_poster.webp",
-  "bannerPath": "https://image.tmdb.org/t/p/original/n1ItmvzsDV5yLgDodSCLZpFlsP6.jpg",
+  "bannerPath": "https://raw.githubusercontent.com/ordonbtoosh/mediatracker-images-1/main/1766564799933_banner.webp",
   "posterImageRepo": "mediatracker-images-1",
-  "bannerImageRepo": null,
+  "bannerImageRepo": "mediatracker-images-1",
   "gender": "",
   "birthday": "",
   "placeOfBirth": "",
@@ -21,9 +21,9 @@
   "studio": "",
   "developer": "",
   "directorCreator": "Denis Villeneuve",
-  "runtime": "153",
+  "runtime": "",
   "episodes": "",
   "episodeRuntime": "",
   "timeToBeat": "",
-  "source": "tmdb"
+  "source": ""
 }
