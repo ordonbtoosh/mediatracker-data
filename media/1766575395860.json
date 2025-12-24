@@ -8,9 +8,9 @@
   "description": "When decorated soldier Captain Colter Stevens wakes up in the body of an unknown man, he discovers he's part of a mission to find the bomber of a Chicago commuter train.",
   "myRank": 0,
   "posterPath": "https://raw.githubusercontent.com/ordonbtoosh/mediatracker-images-1/main/1766575395860_poster.webp",
-  "bannerPath": "https://image.tmdb.org/t/p/original/s2Cu1y9Al9RbwRU5blAH8wMCrBI.jpg",
+  "bannerPath": "https://raw.githubusercontent.com/ordonbtoosh/mediatracker-images-1/main/1766575395860_banner.webp",
   "posterImageRepo": "mediatracker-images-1",
-  "bannerImageRepo": null,
+  "bannerImageRepo": "mediatracker-images-1",
   "gender": "",
   "birthday": "",
   "placeOfBirth": "",
@@ -21,9 +21,9 @@
   "studio": "",
   "developer": "",
   "directorCreator": "Duncan Jones",
-  "runtime": "93",
+  "runtime": "",
   "episodes": "",
   "episodeRuntime": "",
   "timeToBeat": "",
-  "source": "tmdb"
+  "source": ""
 }
