@@ -8,9 +8,9 @@
   "description": "",
   "myRank": 0,
   "posterPath": "https://raw.githubusercontent.com/ordonbtoosh/mediatracker-images-1/main/1766576949560_poster.webp",
-  "bannerPath": "",
+  "bannerPath": "https://raw.githubusercontent.com/ordonbtoosh/mediatracker-images-1/main/1766576949560_banner.webp",
   "posterImageRepo": "mediatracker-images-1",
-  "bannerImageRepo": null,
+  "bannerImageRepo": "mediatracker-images-1",
   "gender": "",
   "birthday": "",
   "placeOfBirth": "",
@@ -25,5 +25,5 @@
   "episodes": "",
   "episodeRuntime": "",
   "timeToBeat": "",
-  "source": "tmdb"
+  "source": ""
 }
